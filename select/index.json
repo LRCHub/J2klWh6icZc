@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "あたしが死んでも",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-03-19T01:25:08.878222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あたしが死んでも",
+      "artist": "Koresawa",
+      "has_synced": true,
+      "path": "select/01_あたしが死んでも_Koresawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あたしが死んでも",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_あたしが死んでも_コレサワ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "あたしが死んでも",
+      "artist": "コレサワ",
+      "has_synced": true,
+      "path": "select/localdb_01_あたしが死んでも_コレサワ.lrc",
+      "repo_name": "DkgVeeo8TjE"
+    }
+  ]
+}
